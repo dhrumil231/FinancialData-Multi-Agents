@@ -546,13 +546,17 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Dhrumil Shah**
+**Dhrumil Shah and Pritika Pravin**
 
 MS Engineering Management · Syracuse University (Dec 2025)
 Senior Business Analyst · Angel One | Fintech & Capital Markets
 
+
+University of Washington | Bachelor of Arts - BA, Geography with Data Science
+Backend Software Engineer | Agentic AI
+
 [![GitHub](https://img.shields.io/badge/GitHub-dhrumil231-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhrumil231)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumilshah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-shah-101853215/)
 
 ---
 
